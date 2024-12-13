@@ -1,3 +1,3 @@
-module github.com/MrSergey98/cloud_technologies_and_backend_development
+module mymodule
 
-go 1.23.3
+go 1.23.2
