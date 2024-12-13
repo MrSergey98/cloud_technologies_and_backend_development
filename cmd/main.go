@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/MrOganes/GO/mymodule"
+    "github.com/MrSergey98/cloud_technologies_and_backend_development/mymodule"
 )
 
 func main() {
